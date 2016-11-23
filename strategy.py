@@ -1,3 +1,5 @@
+# detect whether there is any repeated characters in a string
+
 import time
 
 SLOW = 3  # delay 3 seconds
