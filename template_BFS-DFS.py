@@ -80,10 +80,10 @@ if __name__ == '__main__':
         'Karlsruhe': ['Augsburg'],
         'Augsburg': ['Munchen'],
         'Wurzburg': ['Erfurt', 'Nurnberg'],
-        'Nurnberg': ['Stuttgart', 'Munchen'],
+        'Nurnberg': ['Munchen'],
         'Kassel': ['Munchen'],
         'Erfurt': [],
-        'Stuttgart': [],
+        'Stuttgart': ['Nurnberg'],
         'Munchen': []
     }
 
